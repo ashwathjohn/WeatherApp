@@ -112,35 +112,35 @@ body{
 
 @media(max-width:450px){
     .card{
-        width: 70%;
+        width: 80%;
         max-width: 450px;
-        margin-left: 20px;
+        margin-left: 50px;
     }
 
     .search input{
         margin-left: -18px;
         padding: 10px ;
-        height: 30px;
-        font-size: 12px;
+        height: 40px;
+        font-size: 15px;
     }
 
     .search button{
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
     }
     
     .col img{
-    width: 15px;
+    width: 25px;
     margin-right: 10px;
 }
 
 .humidity , .wind{
-    font-size: 22px;
+    font-size: 25px;
     margin-top: -6px;
 }
 
 .details{
-    margin-left: -30px;
+    margin-left: -20px;
 }
 
 }
