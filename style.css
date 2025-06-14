@@ -112,9 +112,9 @@ body{
 
 @media(max-width:450px){
     .card{
-        width: 60%;
+        width: 70%;
         max-width: 450px;
-        margin-left: 10px;
+        margin-left: 20px;
     }
 
     .search input{
